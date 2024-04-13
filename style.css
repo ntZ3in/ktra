@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+    color: white;
+    background-image: url(tải\ xuống.jpg);
+    width: 1000px;
+    height: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+    color: aqua;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    width: 150px;
+    height: 40px;
+}
+
+.adoff{
+    background-color: greenyellow;
+    color: white;
+    height: 20px;
+}
+
+input {
+    width: 900px;
+    height: 50px;
+}
